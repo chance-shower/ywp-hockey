@@ -1,0 +1,23 @@
+{
+  "name": "ywp-hockey",
+  "version": "1.0.0",
+  "description": "Website for YW/Petone hockey club",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build -i src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chance-shower/ywp-hockey.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chance-shower/ywp-hockey/issues"
+  },
+  "homepage": "https://github.com/chance-shower/ywp-hockey#readme",
+  "dependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
